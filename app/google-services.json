@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "911293100015",
+    "firebase_url": "https://lab4-firebase-umairah-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lab4-firebase-umairah",
+    "storage_bucket": "lab4-firebase-umairah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911293100015:android:a612f3efd0207e26f0501a",
+        "android_client_info": {
+          "package_name": "com.example.lab4firebaseumairah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDflPw121oN88KVtLFiOZXbnvwYIiLQHgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
